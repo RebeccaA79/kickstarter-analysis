@@ -51,8 +51,8 @@ The outcomes based on launch date was summarized to show only the month of launc
 
 - What are some other possible tables and/or graphs that we could create?
 
-1. Additional charts such as bar charts, pie charts, and scatter plots show the data in different layouts and may provide more clarity on trends in campaign outcomes. 
+	1. Additional charts such as bar charts, pie charts, and scatter plots show the data in different layouts and may provide more clarity on trends in campaign outcomes. 
 
-2. Filtering the data on additional fields that align more closely with Fever's campaign can provide a more useful analysis for decision making (i.e filtering on US for country of origin).
+	2. Filtering the data on additional fields that align more closely with Fever's campaign can provide a more useful analysis for decision making (i.e filtering on US for country of origin).
 
-3. Creating tables and charts using measures of central tendency on the data (i.e mean, median, mode) and measures of spread (i.e range, variance, standard deviation, quartiles) will provide a deeper understanding of the underlying data and what is driving campaign outcomes. Slicing and analyzing the data in separate categories (i.e successful vs. failed, goal vs. pledged) can also reveal hidden themes and provide a more useful tool for planning a successful fundraising campaign. 
+	3. Creating tables and charts using measures of central tendency on the data (i.e mean, median, mode) and measures of spread (i.e range, variance, standard deviation, quartiles) will provide a deeper understanding of the underlying data and what is driving campaign outcomes. Slicing and analyzing the data in separate categories (i.e successful vs. failed, goal vs. pledged) can also reveal hidden themes and provide a more useful tool for planning a successful fundraising campaign. 
